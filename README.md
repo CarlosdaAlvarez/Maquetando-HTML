@@ -1,4 +1,4 @@
-# Ingeniería Web — Semana 3
+# Ingeniería Web
 
 Nombres:
 
